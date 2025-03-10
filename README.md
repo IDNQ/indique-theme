@@ -3,7 +3,13 @@
 
 Indique is a personalized Visual Studio Code color theme featuring custom Git highlighting colors, optimized for visibility and eye comfort across devices and dark mode environments.
 
-![Theme Preview](preview.png) <!-- Add a preview image if available -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="preview-one.png" alt="Theme Preview 1" style="width: 24%;" />
+  <img src="preview-two.png" alt="Theme Preview 2" style="width: 24%;" />
+  <img src="preview-three.png" alt="Theme Preview 3" style="width: 24%;" />
+  <img src="preview-four.png" alt="Theme Preview 4" style="width: 24%;" />
+</div>
+
 
 ## Table of Contents
 - [Features](#features)
@@ -28,8 +34,8 @@ Indique is a personalized Visual Studio Code color theme featuring custom Git hi
 1. **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/IDNQ/Indique-Theme.git
-   cd Indique-Theme
+   git clone https://github.com/IDNQ/indique-theme.git
+   cd indique-theme
    ```
 
 2. **Copy the Theme to VS Code Extensions**  

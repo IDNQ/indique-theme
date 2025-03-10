@@ -1,0 +1,6 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code files
+.vscode/

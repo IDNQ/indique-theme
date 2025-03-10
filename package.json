@@ -1,0 +1,15 @@
+{
+    "name": "indique-themes",
+    "version": "1.0.0",
+    "publisher": "IDNQ",
+    "engines": { "vscode": "^1.75.0" },
+    "contributes": {
+      "themes": [
+        {
+          "label": "Indique Theme",
+          "uiTheme": "vs-dark",  
+          "path": "./themes/indique.json"
+        }
+      ]
+    }
+  }
