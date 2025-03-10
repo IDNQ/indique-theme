@@ -35,11 +35,11 @@ Indique is a personalized Visual Studio Code color theme featuring custom Git hi
 2. **Copy the Theme to VS Code Extensions**  
    - **Linux/macOS**:
      ```bash
-     cp -r my-vscode-theme ~/.vscode/extensions/
+     cp -r indique-theme ~/.vscode/extensions/
      ```
    - **Windows (PowerShell)**:
      ```powershell
-     Copy-Item -Path my-vscode-theme -Destination "$env:USERPROFILE\.vscode\extensions\" -Recurse
+     Copy-Item -Path indique-theme -Destination "$env:USERPROFILE\.vscode\extensions\" -Recurse
      ```
 
 ## Theme Activation
@@ -49,7 +49,7 @@ Indique is a personalized Visual Studio Code color theme featuring custom Git hi
 4. Choose **"Indique"** from the dropdown list.
 
 ## Customization
-1. Edit the theme file at `themes/monokai-custom.json`.  
+1. Edit the theme file at `themes/indique.json`.  
    Example customization:
    ```json
    {
@@ -82,10 +82,3 @@ No additional build steps are required. Simply clone the repository and copy the
 ## License
 MIT © IDNQ  
 See [LICENSE](LICENSE) for details.
-
----
-
-### Notes:
-1. Replace `preview.png` with an actual screenshot of your theme.
-2. Ensure the `my-vscode-theme` folder name matches the actual theme directory in the repository.
-3. Add a `LICENSE` file if not already included in the repository.
