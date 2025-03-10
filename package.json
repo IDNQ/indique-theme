@@ -1,20 +1,29 @@
 {
-    "name": "indique-theme",
-    "version": "1.0.0",
-    "publisher": "IDNQ",
-    "engines": { "vscode": "^1.75.0" },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/IDNQ/indique-theme.git"
-    },
-    "contributes": {
-      "themes": [
-        {
-          "label": "Indique Theme",
-          "uiTheme": "vs-dark",
-          "path": "./themes/indique.json"
-        }
-      ]
-    }
+  "name": "indique-theme",
+  "version": "1.0.0",
+  "publisher": "idnq",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IDNQ/indique-theme.git"
+  },
+  "icon": "indique_theme_logo.png",
+  "galleryBanner": {
+    "color": "#1a1b26",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Indique Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/indique.json"
+      }
+    ]
   }
-  
+}
