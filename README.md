@@ -3,7 +3,7 @@
 
 Indique is a personalized Visual Studio Code color theme featuring custom Git highlighting colors, optimized for visibility and eye comfort across devices and dark mode environments.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; gap: 10px; flex-wrap: wrap;">
   <img src="preview-one.png" alt="Theme Preview 1" style="width: 24%;" />
   <img src="preview-two.png" alt="Theme Preview 2" style="width: 24%;" />
   <img src="preview-three.png" alt="Theme Preview 3" style="width: 24%;" />
